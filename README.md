@@ -55,8 +55,10 @@ I am actively pivoting deeper into advanced robotics, custom operating systems, 
   <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" />
 </p>
 <a href="https://www.buymeacoffee.com/narendrayama"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee"></a>
-![Telugu](https://img.shields.io/badge/Telugu-Native-brightgreen)
-![English](https://img.shields.io/badge/English-Fluent-blue)
-![Hindi](https://img.shields.io/badge/Hindi-Conversational-orange)
-![Japanese](https://img.shields.io/badge/Japanese-Beginner-red)
-![Sanskrit](https://img.shields.io/badge/Sanskrit-Basic-lightgrey)
+<p>
+  <img src="https://img.shields.io/badge/Telugu-Native-brightgreen" alt="Telugu">
+  <img src="https://img.shields.io/badge/English-Fluent-blue" alt="English">
+  <img src="https://img.shields.io/badge/Hindi-Conversational-orange" alt="Hindi">
+  <img src="https://img.shields.io/badge/Japanese-Beginner-red" alt="Japanese">
+  <img src="https://img.shields.io/badge/Sanskrit-Basic-lightgrey" alt="Sanskrit">
+</p>
