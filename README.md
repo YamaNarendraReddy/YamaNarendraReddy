@@ -56,9 +56,10 @@ I am actively pivoting deeper into advanced robotics, custom operating systems, 
 </p>
 <a href="https://www.buymeacoffee.com/narendrayama"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee"></a>
 <p>
-  <img src="https://img.shields.io/badge/Telugu-Native-brightgreen?style=for-the-badge" alt="Telugu" />
-  <img src="https://img.shields.io/badge/Japanese-Beginner-red?style=for-the-badge" alt="Japanese" />
-  <img src="https://img.shields.io/badge/Sanskrit-Basic-lightgrey?style=for-the-badge" alt="Sanskrit" />
-  <img src="https://img.shields.io/badge/English-Fluent-blue?style=for-the-badge" alt="English" />
-  <img src="https://img.shields.io/badge/Hindi-Conversational-orange?style=for-the-badge" alt="Hindi" />
+  <span>అ </span><img src="https://img.shields.io/badge/Telugu-Native-brightgreen?style=for-the-badge" alt="Telugu" />
+  <span>あ </span><img src="https://img.shields.io/badge/Japanese-Beginner-red?style=for-the-badge" alt="Japanese" />
+  <span>सं </span><img src="https://img.shields.io/badge/Sanskrit-Basic-lightgrey?style=for-the-badge" alt="Sanskrit" />
+  <span>A </span><img src="https://img.shields.io/badge/English-Fluent-blue?style=for-the-badge" alt="English" />
+  <span>अ </span><img src="https://img.shields.io/badge/Hindi-Conversational-orange?style=for-the-badge" alt="Hindi" />
+
 </p>
