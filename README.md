@@ -55,11 +55,8 @@ I am actively pivoting deeper into advanced robotics, custom operating systems, 
   <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" />
 </p>
 <a href="https://www.buymeacoffee.com/narendrayama"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee"></a>
-<p>
-  <span>అ </span><img src="https://img.shields.io/badge/Telugu-Native-brightgreen?style=for-the-badge" alt="Telugu" />
-  <span>あ </span><img src="https://img.shields.io/badge/Japanese-Beginner-red?style=for-the-badge" alt="Japanese" />
-  <span>सं </span><img src="https://img.shields.io/badge/Sanskrit-Basic-lightgrey?style=for-the-badge" alt="Sanskrit" />
-  <span>A </span><img src="https://img.shields.io/badge/English-Fluent-blue?style=for-the-badge" alt="English" />
-  <span>अ </span><img src="https://img.shields.io/badge/Hindi-Conversational-orange?style=for-the-badge" alt="Hindi" />
-
-</p>
+<img src="https://img.shields.io/badge/Telugu-Native-brightgreen?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHRleHQgeD0iMTIiIHk9IjE5IiBmb250LXNpemU9IjIwIiBmb250LWZhbWlseT0iTm90byBTYW5zLCBzYW5zLXNlcmlmIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWxsPSJ3aGl0ZSI%2B4LCFPC90ZXh0Pjwvc3ZnPg%3D%3D" alt="Telugu" />
+<img src="https://img.shields.io/badge/English-Fluent-blue?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHRleHQgeD0iMTIiIHk9IjE5IiBmb250LXNpemU9IjIwIiBmb250LWZhbWlseT0iTm90byBTYW5zLCBzYW5zLXNlcmlmIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWxsPSJ3aGl0ZSI%2BQTwvdGV4dD48L3N2Zz4%3D" alt="English" />
+<img src="https://img.shields.io/badge/Hindi-Conversational-orange?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHRleHQgeD0iMTIiIHk9IjE5IiBmb250LXNpemU9IjIwIiBmb250LWZhbWlseT0iTm90byBTYW5zLCBzYW5zLXNlcmlmIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWxsPSJ3aGl0ZSI%2B4KSFPC90ZXh0Pjwvc3ZnPg%3D%3D" alt="Hindi" />
+<img src="https://img.shields.io/badge/Japanese-Beginner-red?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHRleHQgeD0iMTIiIHk9IjE5IiBmb250LXNpemU9IjIwIiBmb250LWZhbWlseT0iTm90byBTYW5zLCBzYW5zLXNlcmlmIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWxsPSJ3aGl0ZSI%2B44GCPC90ZXh0Pjwvc3ZnPg%3D%3D" alt="Japanese" />
+<img src="https://img.shields.io/badge/Sanskrit-Basic-lightgrey?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHRleHQgeD0iMTIiIHk9IjE5IiBmb250LXNpemU9IjIwIiBmb250LWZhbWlseT0iTm90byBTYW5zLCBzYW5zLXNlcmlmIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWxsPSJ3aGl0ZSI%2B4KS44KSCPC90ZXh0Pjwvc3ZnPg%3D%3D" alt="Sanskrit" />
