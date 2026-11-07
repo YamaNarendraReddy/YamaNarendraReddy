@@ -1,23 +1,21 @@
 # ⚡ Hi, I'm Yama Narendra Reddy (aka Indra)
 
-I am an IoT undergraduate with a deep focus on **Physical AI** and **Robotics**. I'm not here to write enterprise boilerplate; I build intelligent systems that interact with the physical world. My passion lies at the intersection of hardware, real-time operating systems, and edge AI.
+I am an IoT undergraduate with a deep focus on **Physical AI**, **Systems Engineering**, and **Robotics**. I build intelligent systems that interact with the physical world, operating at the intersection of custom operating systems, real-time control, and edge intelligence.
 
-### 🛠️ What I'm Building (Current Projects)
-My current repositories reflect a mix of predictive intelligence, automation, and applied machine learning:
-*   **IoT & Automation:** `smart-factory-simulator`, `AI-for-IoT-Predictive-Maintenance`, `Air-Quality-Monitoring-System`, `smart_agri_monitoring_system`
-*   **Machine Learning & Vision:** `Telugu-Japanese-OCR`, `machinelearning`
-*   **Systems & Software:** `Tarka-C`, `Arthavya`, `Arthavya-web`, `zio`
+### 🛠️ Featured Systems & Tools
+*   **[Tarka-C](https://github.com/YamaNarendraReddy/Tarka-C)** — Logic-Oriented Diagnostic Compiler named after *Tarka-shastra* (the Indian science of logic). Acts as a teaching compiler that proves memory safety and detects undefined behavior before execution.
+*   **[Telugu-Japanese-OCR](https://github.com/YamaNarendraReddy/Telugu-Japanese-OCR)** — Multilingual Optical Character Recognition & translation pipeline extracting and translating complex Telugu and Japanese scripts from images.
+*   **Vid CLI** — Autonomous Multi-Model Coding Assistant with verification-driven routing, real interactive PTY shell execution, and 15+ LLM providers.
+*   **WeDo Extension** — Safe Web Downloader (MV3) featuring real-time malware analysis, Google Safe Browsing, VirusTotal SHA-256 reputation, and static inspection before saving files.
 
-### 🚀 The Roadmap (What's Next)
-I am actively pivoting deeper into advanced robotics, custom operating systems, and industrial resilience. Here is what is on my workbench:
-*   **Robotics & ROS2:** Sim-to-real dexterous manipulation and ROS2 MCAP file analysis using AI MCP.
-*   **Systems Engineering:** Developing **IndraOS-debian** and building robust RTOS-ac architectures.
-*   **Industrial AI:** Architecting self-healing industrial automation systems.
-*   **Applied AI:** Building custom ML algorithms and integrating LLM chatbots for physical hardware interfaces.
-*   **Mobility:** Intelligent systems for Electrical Vehicles (EVs).
+### 🚀 Engineering Workbench (Roadmap)
+*   **IndraOS:** Custom operating system architecture optimized for HDD throughput and Small Language Models (SLMs) on SSD for edge robotics.
+*   **Sim-to-Real Dexterity:** Vision-Language-Action (VLA) models training robotic hands in physics simulation for high-precision industrial manipulation.
+*   **RTOS for EV & CAC:** Hard Real-Time Operating System designed for Connected Autonomous Cars (CAC) and Electric Vehicles with deterministic interrupt latency.
+*   **MCAP File Analysis:** Intelligent telemetry and kinematic extraction from ROS2 MCAP recordings using AI Model Context Protocol (MCP).
 
-### ⚙️ Core Interests
-`Physical AI` | `ROS2` | `Sim-to-Real` | `RTOS` | `IoT Architecture` | `Embedded Machine Learning`
+### ⚙️ Core Focus
+`Physical AI` | `ROS2` | `Sim-to-Real` | `RTOS` | `Compilers & Systems` | `Edge AI`
 
 ---
 *"Software is great, but software that moves the physical world is better."*
@@ -30,6 +28,7 @@ I am actively pivoting deeper into advanced robotics, custom operating systems, 
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 </p>
 
 **Robotics & Hardware**  
@@ -54,6 +53,7 @@ I am actively pivoting deeper into advanced robotics, custom operating systems, 
   <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian" />
   <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" />
 </p>
+
 <a href="https://www.buymeacoffee.com/narendrayama"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee"></a>
 <img src="https://img.shields.io/badge/Telugu-Native-brightgreen?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHRleHQgeD0iMTIiIHk9IjE5IiBmb250LXNpemU9IjIwIiBmb250LWZhbWlseT0iTm90byBTYW5zLCBzYW5zLXNlcmlmIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWxsPSJ3aGl0ZSI%2B4LCFPC90ZXh0Pjwvc3ZnPg%3D%3D" alt="Telugu" />
 <img src="https://img.shields.io/badge/English-Fluent-blue?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHRleHQgeD0iMTIiIHk9IjE5IiBmb250LXNpemU9IjIwIiBmb250LWZhbWlseT0iTm90byBTYW5zLCBzYW5zLXNlcmlmIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWxsPSJ3aGl0ZSI%2BQTwvdGV4dD48L3N2Zz4%3D" alt="English" />
